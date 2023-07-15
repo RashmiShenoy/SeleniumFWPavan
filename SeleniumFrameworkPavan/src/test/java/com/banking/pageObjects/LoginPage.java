@@ -17,6 +17,7 @@ public class LoginPage {
 	@FindBy(name = "uid") WebElement username;
 	@FindBy(name = "password") WebElement password;
 	@FindBy(name = "btnLogin") WebElement btnLogin;
+	@FindBy(xpath = "//a[normalize-space()='Log out']") WebElement logout;
 	
 	public void setUserName(String uname) {
 		username.sendKeys(uname);
@@ -28,6 +29,10 @@ public class LoginPage {
 	
 	public void clickSubmit() {
 		btnLogin.click();
+	}
+	
+	public void clickLogout() {
+		logout.click();
 	}
 }
 

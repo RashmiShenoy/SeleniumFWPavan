@@ -1,5 +1,7 @@
 package com.banking.testCases;
 
+import java.io.IOException;
+
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -27,6 +29,12 @@ public class TC_LoginTest_001 extends BaseClass {
 		}
 		else 
 		{
+			try {
+				captureScreen(driver, "loginTest");
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			Assert.assertTrue(false);
 			logger.info("Login test failed");
 		}
