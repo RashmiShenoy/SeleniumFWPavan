@@ -1,0 +1,81 @@
+2023-07-14 17:51:15,422 - ebanking -INFO - URL is opened
+2023-07-14 17:51:19,665 - ebanking -INFO - Entered Username
+2023-07-14 17:51:19,705 - ebanking -INFO - Entered password
+2023-07-14 17:51:22,037 - ebanking -INFO - Login test failed
+2023-07-14 20:01:14,088 - ebanking -INFO - URL is opened
+2023-07-14 20:01:18,403 - ebanking -INFO - Entered Username
+2023-07-14 20:01:18,508 - ebanking -INFO - Entered password
+2023-07-14 20:01:20,884 - ebanking -INFO - Login test failed
+2023-07-15 16:04:56,430 - ebanking -INFO - URL is opened
+2023-07-15 16:05:28,455 - ebanking -INFO - Entered Username
+2023-07-15 16:05:28,542 - ebanking -INFO - Entered password
+2023-07-15 16:05:31,689 - ebanking -INFO - Login test failed
+2023-07-15 16:18:44,865 - ebanking -INFO - URL is opened
+2023-07-15 16:18:49,273 - ebanking -INFO - Entered Username
+2023-07-15 16:18:49,426 - ebanking -INFO - Entered password
+2023-07-15 16:18:52,945 - ebanking -INFO - Login test failed
+2023-07-15 16:20:46,420 - ebanking -INFO - URL is opened
+2023-07-15 16:20:50,740 - ebanking -INFO - Entered Username
+2023-07-15 16:20:50,809 - ebanking -INFO - Entered password
+2023-07-15 16:33:33,948 - ebanking -INFO - URL is opened
+2023-07-15 16:33:38,364 - ebanking -INFO - Entered Username
+2023-07-15 16:33:38,473 - ebanking -INFO - Entered password
+2023-07-15 16:33:41,232 - ebanking -INFO - Login test failed
+2023-07-15 16:42:14,986 - ebanking -INFO - URL is opened
+2023-07-15 16:42:19,443 - ebanking -INFO - Entered Username
+2023-07-15 16:42:19,583 - ebanking -INFO - Entered password
+2023-07-15 23:31:47,792 - ebanking -INFO - Username is provided
+2023-07-15 23:31:47,934 - ebanking -INFO - Password is provided
+2023-07-15 23:31:51,094 - ebanking -INFO - Username is provided
+2023-07-15 23:31:51,175 - ebanking -INFO - Password is provided
+2023-07-15 23:31:54,497 - ebanking -INFO - Username is provided
+2023-07-15 23:31:54,551 - ebanking -INFO - Password is provided
+2023-07-15 23:31:57,203 - ebanking -INFO - Username is provided
+2023-07-15 23:31:57,256 - ebanking -INFO - Password is provided
+2023-07-15 23:32:00,289 - ebanking -INFO - Username is provided
+2023-07-15 23:32:00,419 - ebanking -INFO - Password is provided
+2023-07-15 23:32:03,074 - ebanking -INFO - Username is provided
+2023-07-15 23:32:03,142 - ebanking -INFO - Password is provided
+2023-07-15 23:32:05,563 - ebanking -INFO - Login passed
+2023-07-15 23:36:23,366 - ebanking -INFO - Username is provided
+2023-07-15 23:36:23,486 - ebanking -INFO - Password is provided
+2023-07-15 23:36:32,155 - ebanking -INFO - Username is provided
+2023-07-15 23:36:32,595 - ebanking -INFO - Password is provided
+2023-07-15 23:36:36,035 - ebanking -INFO - Username is provided
+2023-07-15 23:36:36,205 - ebanking -INFO - Password is provided
+2023-07-15 23:36:39,367 - ebanking -INFO - Username is provided
+2023-07-15 23:36:39,438 - ebanking -INFO - Password is provided
+2023-07-15 23:36:42,300 - ebanking -INFO - Username is provided
+2023-07-15 23:36:42,376 - ebanking -INFO - Password is provided
+2023-07-15 23:36:44,980 - ebanking -INFO - Username is provided
+2023-07-15 23:36:45,076 - ebanking -INFO - Password is provided
+2023-07-15 23:36:47,616 - ebanking -INFO - Login passed
+2023-07-15 23:38:27,983 - ebanking -INFO - Username is provided
+2023-07-15 23:38:28,063 - ebanking -INFO - Password is provided
+2023-07-15 23:38:31,778 - ebanking -INFO - Username is provided
+2023-07-15 23:38:31,887 - ebanking -INFO - Password is provided
+2023-07-15 23:38:35,825 - ebanking -INFO - Username is provided
+2023-07-15 23:38:35,907 - ebanking -INFO - Password is provided
+2023-07-15 23:38:38,653 - ebanking -INFO - Username is provided
+2023-07-15 23:38:38,725 - ebanking -INFO - Password is provided
+2023-07-15 23:38:41,545 - ebanking -INFO - Username is provided
+2023-07-15 23:38:41,617 - ebanking -INFO - Password is provided
+2023-07-15 23:38:44,365 - ebanking -INFO - Username is provided
+2023-07-15 23:38:44,446 - ebanking -INFO - Password is provided
+2023-07-15 23:38:46,567 - ebanking -INFO - Login passed
+2023-07-16 00:36:43,404 - ebanking -INFO - Username is provided
+2023-07-16 00:36:43,506 - ebanking -INFO - Password is provided
+2023-07-16 00:36:48,929 - ebanking -INFO - Providing customer details....
+2023-07-16 00:39:50,124 - ebanking -INFO - Username is provided
+2023-07-16 00:39:50,266 - ebanking -INFO - Password is provided
+2023-07-16 00:39:55,968 - ebanking -INFO - Providing customer details....
+2023-07-16 23:41:37,391 - ebanking -INFO - Username is provided
+2023-07-16 23:41:37,495 - ebanking -INFO - Password is provided
+2023-07-16 23:41:42,914 - ebanking -INFO - Providing customer details....
+2023-07-16 23:47:21,696 - ebanking -INFO - Username is provided
+2023-07-16 23:47:21,824 - ebanking -INFO - Password is provided
+2023-07-16 23:47:27,320 - ebanking -INFO - Providing customer details....
+2023-07-16 23:48:24,633 - ebanking -INFO - Username is provided
+2023-07-16 23:48:24,730 - ebanking -INFO - Password is provided
+2023-07-16 23:48:30,484 - ebanking -INFO - Providing customer details....
+2023-07-16 23:48:43,882 - ebanking -INFO - Validation started....
