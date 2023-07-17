@@ -28,4 +28,5 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
+      shell: bash
       run: mvn clean install
