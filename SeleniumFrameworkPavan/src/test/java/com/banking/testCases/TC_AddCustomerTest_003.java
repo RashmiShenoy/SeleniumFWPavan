@@ -65,6 +65,7 @@ public class TC_AddCustomerTest_003 extends BaseClass
 	}
 	
 	public String randomstring() {
+		//To generate email
 		String generatedstring = RandomStringUtils.randomAlphabetic(8);
 		return(generatedstring);
 	}
